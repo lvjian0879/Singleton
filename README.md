@@ -1,2 +1,2 @@
 # Singleton
-testgit使用
+test git使用
